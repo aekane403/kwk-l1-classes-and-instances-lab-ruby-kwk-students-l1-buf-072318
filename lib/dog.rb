@@ -8,6 +8,6 @@ end
 end
 
 
-fido = Dog.new()
-snoopy = 
-lassie =
+fido = Dog.new(fido)
+snoopy = Dog.new(snoopy)
+lassie =Dog.new(lassie)
