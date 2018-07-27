@@ -1,7 +1,9 @@
 # dog.rb
 
 class Dog
-  def 
+  attr_reader :fido, :snoopy, :lassie
 end
 
 fido = 
+snoopy = 
+lassie =
