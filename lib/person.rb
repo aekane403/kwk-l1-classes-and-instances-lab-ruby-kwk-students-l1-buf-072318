@@ -7,4 +7,4 @@ class Person
   end
 end
 
-adele_goldberg
+adele_goldberg = 
